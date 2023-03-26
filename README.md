@@ -1,0 +1,3 @@
+# LorenzAttractor
+
+## Required freeglut library 
